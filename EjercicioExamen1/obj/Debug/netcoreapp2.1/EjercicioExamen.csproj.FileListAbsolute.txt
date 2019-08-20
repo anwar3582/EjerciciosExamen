@@ -1,0 +1,11 @@
+C:\Csharp\EjercicioExamen\bin\Debug\netcoreapp2.1\EjercicioExamen.deps.json
+C:\Csharp\EjercicioExamen\bin\Debug\netcoreapp2.1\EjercicioExamen.runtimeconfig.json
+C:\Csharp\EjercicioExamen\bin\Debug\netcoreapp2.1\EjercicioExamen.runtimeconfig.dev.json
+C:\Csharp\EjercicioExamen\bin\Debug\netcoreapp2.1\EjercicioExamen.dll
+C:\Csharp\EjercicioExamen\bin\Debug\netcoreapp2.1\EjercicioExamen.pdb
+C:\Csharp\EjercicioExamen\obj\Debug\netcoreapp2.1\EjercicioExamen.csprojAssemblyReference.cache
+C:\Csharp\EjercicioExamen\obj\Debug\netcoreapp2.1\EjercicioExamen.csproj.CoreCompileInputs.cache
+C:\Csharp\EjercicioExamen\obj\Debug\netcoreapp2.1\EjercicioExamen.AssemblyInfoInputs.cache
+C:\Csharp\EjercicioExamen\obj\Debug\netcoreapp2.1\EjercicioExamen.AssemblyInfo.cs
+C:\Csharp\EjercicioExamen\obj\Debug\netcoreapp2.1\EjercicioExamen.dll
+C:\Csharp\EjercicioExamen\obj\Debug\netcoreapp2.1\EjercicioExamen.pdb
